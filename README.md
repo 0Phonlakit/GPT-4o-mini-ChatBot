@@ -4,7 +4,7 @@
 This website was developed as a learning project to explore the integration of Python, OpenAI, and Streamlit. The primary goal was to create a real-time chatbot application that leverages the OpenAI API for natural language processing and Streamlit for the server-side implementation. The application enables seamless, real-time communication between the user and the chatbot.
 
 ## How to use and what you need
-* The **requirements.txt** file specifies the primary libraries used in the project:
+* The **`requirements.txt`** file specifies the primary libraries used in the project:
    * **OpenAI**: This library is responsible for interacting with the OpenAI API to generate text-based responses to user prompts.
    * **Streamlit**: Streamlit is used to create the web application's user interface and manage the application's server.
 
